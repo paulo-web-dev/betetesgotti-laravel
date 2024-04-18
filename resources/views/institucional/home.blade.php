@@ -6,7 +6,7 @@
   <section id="hero" class="d-flex align-items-center">
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500">
       <h1 style="font-size: 36px;">Quem somos?</h1>
-        <h2>O escritório BTT Advocacia tem como base a humanização do cliente, seja pessoa física ou jurídica. </h2>
+        <h2>O escritório Betete Sgotti Advocacia tem como base a humanização do cliente, seja pessoa física ou jurídica. </h2>
         <h2>Assim, foi criado e pensado para pessoas que buscam solucionar seus conflitos no âmbito da responsabilidade civil e contratual.</h2>
         
       <a href="#about" class="btn-get-started scrollto">Saiba Mais!</a>
@@ -21,7 +21,7 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left">
-            <img src="https://classic.exame.com/wp-content/uploads/2020/04/mesa-de-advogado.jpg?quality=70&strip=info&w=680" class="img-fluid" alt="">
+            <img src="https://img.freepik.com/free-photo/still-life-with-scales-justice_23-2149776027.jpg?t=st=1713195499~exp=1713199099~hmac=13245bc3952eeb7033058732f76472a5193392a64e1a6f767c0dc4515fec0155&w=740" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
             <h2>Sobre Nós.</h2>
@@ -49,7 +49,7 @@
         <div class="text-center">
           <h3>Atendimento Online Em Todo o Brasil</h3>
           
-          <a class="cta-btn" href="https://api.whatsapp.com/send?phone=551799614-1870&text=Gostaria de entrada no meu processo de BPC/LOAS">Fale Com um Advogado Especialista</a>
+          <a class="cta-btn" href="https://api.whatsapp.com/send?phone=551799614-1870&text=Gostaria de falar com um advogado especialista">Fale Com um Advogado Especialista</a>
         </div>
 
       </div>
@@ -180,7 +180,7 @@ Contrato de compra e venda e/ou serviços, rescisão contratual, análise contra
     <div class="text-center">
       <h3>Por que você precisa de um advogado especializado ?</h3>
       <p>Pois ele é o profissional indicado para esclarecer todas as suas dúvidas e resolver o seu caso da melhor forma</p>
-      <a class="cta-btn" href="https://api.whatsapp.com/send?phone=551799614-1870&text=Gostaria de entrada no meu processo de BPC/LOAS">Fale Com um Advogado Especialista</a>
+      <a class="cta-btn" href="https://api.whatsapp.com/send?phone=551799614-1870&text=Gostaria de falar com um advogado especialista">Fale Com um Advogado Especialista</a>
     </div>
 
   </div>
