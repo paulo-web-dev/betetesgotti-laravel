@@ -15,10 +15,10 @@
   </section> -->
 
   <!-- ======= Header ======= -->
-  <header id="header" class="d-flex align-items-center">
-    <div class="container d-flex align-items-center justify-content-between">
+  <header id="header" class="d-flex align-items-center" style="background-color: #929ac9">
+    <div class="container d-flex align-items-center justify-content-between" >
 
-      <h1 class="logo"><a href="index.html">BETETE SGOTTI</a></h1>
+      <h1 class="logo"><a href="">BETETE SGOTTI</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -30,6 +30,7 @@
           <li><a class="nav-link scrollto" href="#services">Serviços</a></li>
           <li><a class="nav-link scrollto " href="#team">Equipe</a></li>
           <li><a class="nav-link scrollto" href="#contact ">Contato</a></li>
+          <li><a class="nav-link scrollto" href="{{route('noticias')}}">Notícias</a></li>
            <li class="dropdown"><a href="#"><span>Serviços</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="{{route('bpcloas')}}">BPC/LOAS</a></li>

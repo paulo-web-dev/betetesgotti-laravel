@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\Noticias;
 use Mail;
 
 class HomeController extends Controller
@@ -14,6 +15,19 @@ class HomeController extends Controller
     
     public function bpcloas(){
         return view('institucional.bpc-loas');
+    }
+
+    public function noticia(Noticias $noticia){
+        return view('institucional.noticia',[
+            'noticia' => $noticia,
+        ]);
+    }
+
+    public function noticias(){
+        $noticias = Noticias::all();
+        return view('institucional.noticias',[
+            'noticias' => $noticias,
+        ]);
     }
 
     public function email(Request $request){

@@ -130,42 +130,35 @@ Contrato de compra e venda e/ou serviços, rescisão contratual, análise contra
         </div>
 
     
-          <div class="row justify-content-center align-items-center">
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" style="margin-left: 40px;">
-              <div class="member">
-                <img src="fotos/bruna.jpeg" alt="" style="width: 100%; height: 200px; object-fit: cover;">
-                <h4>Dra. Bruna C. O. Sgotti</h4>
-                <p>Dra. Bruna C. O. Sgotti Especialista Em BPC – LOAS
+         <div class="row justify-content-center align-items-center">
+    <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
+        <div class="member">
+            <img src="https://static.wixstatic.com/media/0bb7d2_a1a04332f82d4b30b46b7c3af9104bc1~mv2.jpg/v1/fill/w_392,h_398,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/0bb7d2_a1a04332f82d4b30b46b7c3af9104bc1~mv2.jpg" alt="" style="width: 100%; height: 200px; object-fit: cover;">
+            <h4>Dra. Ana Carolina Muramatsu</h4>
+            <p>Dra. Ana Carolina Muramatsu</p>
+            <span>OAB 462979/SP</span>
+        </div>
+    </div>
 
-                 </p>
-                <span>OAB 367600/SP</span>
-              </div>
-            </div>
-          
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" style="margin-left: 40px;">
-              <div class="member">
-                <img src="fotos/betete.jpeg" alt="" style="width: 100%; height: 200px; object-fit: cover;">
-                <h4>Dr. Vinicius T. Betete</h4>
-                <p>Dr. Vinicius T. Betete 
+    <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
+        <div class="member">
+            <img src="fotos/bruna.jpeg" alt="" style="width: 100%; height: 200px; object-fit: cover;">
+            <h4>Dra. Bruna C. O. Sgotti</h4>
+            <p>Dra. Bruna C. O. Sgotti Especialista Em BPC – LOAS</p>
+            <span>OAB 367600/SP</span>
+        </div>
+    </div>
 
-                  </p>
-                <span>OAB 429974/SP</span>
-              </div>
-            </div>
+    <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
+        <div class="member">
+            <img src="fotos/betete.jpeg" alt="" style="width: 100%; height: 200px; object-fit: cover;">
+            <h4>Dr. Vinicius T. Betete</h4>
+            <p>Dr. Vinicius T. Betete</p>
+            <span>OAB 429974/SP</span>
+        </div>
+    </div>
+</div>
 
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" style="margin-left: 40px;">
-              <div class="member">
-                <img src="https://static.wixstatic.com/media/0bb7d2_a1a04332f82d4b30b46b7c3af9104bc1~mv2.jpg/v1/fill/w_392,h_398,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/0bb7d2_a1a04332f82d4b30b46b7c3af9104bc1~mv2.jpg" alt="" style="width: 100%; height: 200px; object-fit: cover;">
-                <h4>Dra. Ana Carolina Muramatsu</h4>
-                <p>Dra. Ana Carolina Muramatsu 
-
-                  </p>
-                <span>OAB 462979/SP</span>
-              </div>
-            </div>
-
-          
-        
 
       </div>
     </section><!-- End Team Section -->
