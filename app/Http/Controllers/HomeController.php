@@ -28,7 +28,7 @@ class HomeController extends Controller
         return view('institucional.noticias',[
             'noticias' => $noticias,
         ]);
-    }
+    } 
 
     public function email(Request $request){
      
