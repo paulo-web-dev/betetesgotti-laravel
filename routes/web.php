@@ -19,7 +19,7 @@ use App\Http\Controllers\NoticiasController;
 // });
 
 //ROTAS REFERENTES AO SITE INSTITUCIONAL
-Route::get('/', [HomeController::class, 'home'])->name('home'); 
+Route::get('/a', [HomeController::class, 'home'])->name('home'); 
 Route::get('/bpc-loas', [HomeController::class, 'bpcloas'])->name('bpcloas');
 Route::get('/noticias', [HomeController::class, 'noticias'])->name('noticias');
 Route::get('/noticia/{noticia}', [HomeController::class, 'noticia'])->name('noticia');
