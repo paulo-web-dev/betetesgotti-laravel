@@ -6,9 +6,8 @@
   <section id="hero" class="d-flex align-items-center">
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500">
       <h1 style="font-size: 36px;">Quem somos?</h1>
-        <h2>O escritório Betete Sgotti Advocacia tem como base a humanização do cliente, seja pessoa física ou jurídica. </h2>
-        <h2>Assim, foi criado e pensado para pessoas que buscam solucionar seus conflitos no âmbito da responsabilidade civil e contratual.</h2>
-        
+        <h2>Seja bem-vindo ao escritório de advocacia Betete e Sgotti. Estamos aqui para oferecer serviços jurídicos especializados com uma abordagem humanizada e fundamentada nos direitos humanos, promovendo o acesso à justiça e a defesa dos direitos de nossos clientes. 
+</h2>
       <a href="#about" class="btn-get-started scrollto">Saiba Mais!</a>
     </div>
   </section><!-- End Hero -->
@@ -29,10 +28,10 @@
             Betete Sgotti
             </p>
             <ul>
-              <li><i class="bi bi-check-circle"></i>A responsabilidade civil nasce de uma relação social que, a depender do caso concreto, gera o dever de indenizar ou de receber indenização pela parte da relação que cometeu ato ilícito previsto em lei. </li>
-              <li><i class="bi bi-check-circle"></i>Já a responsabilidade contratual advém do descumprimento de um contrato acordado entre as partes contratantes.​​</li>
-              <li><i class="bi bi-check-circle"></i>Nesse sentido, a busca por um escritório especializado é indispensável para o reconhecimento do seu direito. </li>
-               <li><i class="bi bi-check-circle"></i>Esse é o principal objetivo do BTT Advocacia: conscientizar e orientar todos os clientes para que seu direito seja respeitado.​ </li>
+              <li><i class="bi bi-check-circle"></i>No escritório de advocacia Betete e Sgotti, a equipe compartilha uma visão jurídica profundamente humanizada. Acreditamos que o direito não é meramente um conjunto de normas, mas uma ferramenta poderosa para promover a equidade, justiça e dignidade para todos.  </li>
+              <li><i class="bi bi-check-circle"></i>Nossa abordagem jurídica é orientada por uma compreensão sólida dos direitos humanos e da importância de salvaguardar e defender esses direitos em todas as nossas atividades profissionais. Cada membro de nossa equipe está empenhado em aplicar esses princípios em seu trabalho cotidiano, buscando soluções que respeitem a dignidade e os direitos fundamentais de nossos clientes. ​​</li>
+              <li><i class="bi bi-check-circle"></i>Nosso objetivo é não apenas resolver problemas jurídicos, mas também capacitar nossos clientes, ajudando-os a entender seus direitos e a tomar decisões informadas sobre seu futuro. </li>
+               <li><i class="bi bi-check-circle"></i>Ao escolher o escritório de advocacia Betete e Sgotti, você pode confiar em uma equipe de profissionais dedicados e comprometidos em defender seus interesses com integridade, empatia e respeito. ​ </li>
             </ul>
            
           </div>
@@ -69,48 +68,32 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Direito do Consumidor</a></h4>
+              <h4><a href="">DIREITO PREVIDENCIÁRIO</a></h4>
               <p>
 
-<b>A relação de consumo ocorre quando há:</b> defeito de produtos ou falha na prestação de serviço, falta de informação, propaganda enganosa, entre outras situações.
-
-<b>Alguns casos exemplificativos nos quais escritório atua:</b>
-
-Restituição de valores e indenização por dano moral por voos cancelados, produto com defeito, movimentações indevidas pelo banco.
-
-Obrigação de fazer por cirurgias fora do prazo de carência em convênio médico e dever das faculdades e cursos em disponibilização do certificado de conclusão, entre outras situações.</p>
+ Nosso escritório oferece assistência especializada em todas as questões relacionadas à previdência social, especialmente em face do INSS. Isso inclui aposentadorias, inclusive a de trabalhador (a) rural, pensões, benefícios assistenciais (BPC – LOAS), benefícios por incapacidade, entre outros. Estamos empenhados em garantir que nossos clientes recebam todos os benefícios a que têm direito, protegendo seu futuro financeiro e bem-estar. 
+</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="150">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Responsabilidade Civil
+              <h4><a href="">DIREITO TRABALHISTA
 
 </a></h4>
-              <p>
-<b>Como saber se há responsabilidade civil?</b>
-
-Questione-se: Você foi se sentiu lesado ou vítima de alguma situação que lhe gerou algum dano seja dentro da esfera moral ou material.
-
-<b>Alguns casos exemplificativos nos quais o escritório atua:</b>
-
-Indenização por dano moral e material: furto de bolsa em carro estacionado em estabelecimento comercial, erro médico com dano estético ao paciente, cancelamento ou atraso de voos, entre outras situações.</p>
+              <p>Na área trabalhista, fazemos a defesa dos trabalhadores que tiveram seus direitos lesados, tais como horas extras não pagas, assédio moral no trabalho, discriminação, entre outros. Além disso, atuamos com questões especificamente relacionadas a trabalhadores com deficiência, bem como com questões relacionadas à perspectiva de gênero para trabalhadoras gestantes e outros conflitos referentes à relação de trabalho com base no gênero. Estamos comprometidos em garantir que os direitos trabalhistas de nossos clientes sejam respeitados e que recebam justiça e compensação adequadas por qualquer violação. </p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Direito Contratual</a></h4>
+              <h4><a href="">DIREITO DA SAÚDE</a></h4>
               <p>
-Direito Contratual
+Em questões relacionadas ao direito da saúde, fornecemos assistência legal para garantir o acesso adequado aos serviços de saúde dos pacientes, com foco principal em litígios contra os planos de saúde. Isso inclui casos de negação de tratamentos ou cirurgias, negligência ou erro médico, disputas de seguros de saúde, entre outros. Também trabalhamos com enfoque em casos de recusa de tratamento para pessoas com deficiência e pessoas idosas. Estamos dedicados a proteger os direitos dos pacientes e garantir que recebam o tratamento e os cuidados de que necessitam.
 
-A relação contratual ocorre quando uma ou mais pessoas, ou empresas, obrigam-se a cumprir as cláusulas contratuais dispostas no contrato, este que poderá ser verbal. 
-
-<b>Alguns casos exemplificativos nos quais o escritório atua:</b>
-
-Contrato de compra e venda e/ou serviços, rescisão contratual, análise contratual de pessoa jurídica, análise de cláusulas abusivas, bem como análise de nulidade ou anulação contratual, acordos, cobranças, aditamento do contrato, sucessão contratual, entre outras situações.</p>
+</p>
             </div>
           </div>
 
@@ -135,7 +118,7 @@ Contrato de compra e venda e/ou serviços, rescisão contratual, análise contra
         <div class="member">
             <img src="https://static.wixstatic.com/media/0bb7d2_a1a04332f82d4b30b46b7c3af9104bc1~mv2.jpg/v1/fill/w_392,h_398,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/0bb7d2_a1a04332f82d4b30b46b7c3af9104bc1~mv2.jpg" alt="" style="width: 100%; height: 200px; object-fit: cover;">
             <h4>Dra. Ana Carolina Muramatsu</h4>
-            <p>Dra. Ana Carolina Muramatsu</p>
+            <p>Dra. Ana Carolina Muramatsu, pós-graduada em Direito Médico.</p>
             <span>OAB 462979/SP</span>
         </div>
     </div>
@@ -144,7 +127,7 @@ Contrato de compra e venda e/ou serviços, rescisão contratual, análise contra
         <div class="member">
             <img src="fotos/bruna.jpeg" alt="" style="width: 100%; height: 200px; object-fit: cover;">
             <h4>Dra. Bruna C. O. Sgotti</h4>
-            <p>Dra. Bruna C. O. Sgotti Especialista Em BPC – LOAS</p>
+            <p>Dra. Bruna C. O. Sgotti, pós-graduada em Direito Civil, Processo Civil e Consumidor. Pós-graduada em Direito Previdenciário.</p>
             <span>OAB 367600/SP</span>
         </div>
     </div>
@@ -153,7 +136,7 @@ Contrato de compra e venda e/ou serviços, rescisão contratual, análise contra
         <div class="member">
             <img src="fotos/betete.jpeg" alt="" style="width: 100%; height: 200px; object-fit: cover;">
             <h4>Dr. Vinicius T. Betete</h4>
-            <p>Dr. Vinicius T. Betete</p>
+            <p>Dr. Vinicius T. Betete, pós-graduando em Direito Previdenciário.</p>
             <span>OAB 429974/SP</span>
         </div>
     </div>
