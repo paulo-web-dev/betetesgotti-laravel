@@ -5,8 +5,8 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500">
-      <h1 style="font-size: 36px;">Seja bem-vindo ao escritório de advocacia Betete e Sgotti</h1>
-        <h2> Estamos aqui para oferecer serviços jurídicos especializados com uma abordagem humanizada e fundamentada nos direitos humanos, promovendo o acesso à justiça e a defesa dos direitos de nossos clientes. 
+      <h1 style="font-size: 36px;">Seja bem-vindo </h1>
+        <h2> Somos ao escritório de advocacia Betete e Sgotti. Estamos aqui para oferecer serviços jurídicos especializados com uma abordagem humanizada e fundamentada nos direitos humanos, promovendo o acesso à justiça e a defesa dos direitos de nossos clientes. 
 </h2>
       <a href="#about" class="btn-get-started scrollto">Saiba Mais!</a>
     </div>
