@@ -27,7 +27,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-phone-call"></i>
               <h3>Telefone</h3>
-              <p> (17) 99614-1870</p>
+              <p> (17) 99719-0692</p>
             </div>
           </div>
 
