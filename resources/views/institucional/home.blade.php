@@ -65,6 +65,16 @@
         </div>
 
         <div class="row">
+         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <h4><a href="">DIREITO DA SAÚDE</a></h4>
+              <p>
+Em questões relacionadas ao direito da saúde, fornecemos assistência legal para garantir o acesso adequado aos serviços de saúde dos pacientes, com foco principal em litígios contra os planos de saúde. Isso inclui casos de negação de tratamentos ou cirurgias, negligência ou erro médico, disputas de seguros de saúde, entre outros. Também trabalhamos com enfoque em casos de recusa de tratamento para pessoas com deficiência e pessoas idosas. Estamos dedicados a proteger os direitos dos pacientes e garantir que recebam o tratamento e os cuidados de que necessitam.
+
+</p>
+            </div>
+          </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
@@ -86,16 +96,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">DIREITO DA SAÚDE</a></h4>
-              <p>
-Em questões relacionadas ao direito da saúde, fornecemos assistência legal para garantir o acesso adequado aos serviços de saúde dos pacientes, com foco principal em litígios contra os planos de saúde. Isso inclui casos de negação de tratamentos ou cirurgias, negligência ou erro médico, disputas de seguros de saúde, entre outros. Também trabalhamos com enfoque em casos de recusa de tratamento para pessoas com deficiência e pessoas idosas. Estamos dedicados a proteger os direitos dos pacientes e garantir que recebam o tratamento e os cuidados de que necessitam.
-
-</p>
-            </div>
-          </div>
+         
 
           
 
