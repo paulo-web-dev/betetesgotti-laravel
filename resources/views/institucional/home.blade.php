@@ -134,7 +134,7 @@ Em questões relacionadas ao direito da saúde, fornecemos assistência legal pa
 
     <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
         <div class="member">
-            <img src="fotos/betete.jpeg" alt="" style="width: 100%; height: 200px; object-fit: cover;">
+            <img src="https://unyflex.com.br/storage/fav/betete.jpeg" alt="" style="width: 100%; height: 200px; object-fit: cover;">
             <h4>Dr. Vinicius T. Betete</h4>
             <p>Dr. Vinicius T. Betete, pós-graduando em Direito Previdenciário.</p>
             <span>OAB 429974/SP</span>
