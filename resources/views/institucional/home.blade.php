@@ -48,7 +48,7 @@
         <div class="text-center">
           <h3>Atendimento Online Em Todo o Brasil</h3>
           
-          <a class="cta-btn" href="https://api.whatsapp.com/send?phone=551799614-1870&text=Gostaria de falar com um advogado especialista">Fale Com um Advogado Especialista</a>
+          <a class="cta-btn" href="https://api.whatsapp.com/send?phone=551799719-0692&text=Gostaria de falar com um advogado especialista">Fale Com um Advogado Especialista</a>
         </div>
 
       </div>
@@ -156,7 +156,7 @@ Em questões relacionadas ao direito da saúde, fornecemos assistência legal pa
     <div class="text-center">
       <h3>Por que você precisa de um advogado especializado ?</h3>
       <p>Pois ele é o profissional indicado para esclarecer todas as suas dúvidas e resolver o seu caso da melhor forma</p>
-      <a class="cta-btn" href="https://api.whatsapp.com/send?phone=551799614-1870&text=Gostaria de falar com um advogado especialista">Fale Com um Advogado Especialista</a>
+      <a class="cta-btn" href="https://api.whatsapp.com/send?phone=551799719-0692&text=Gostaria de falar com um advogado especialista">Fale Com um Advogado Especialista</a>
     </div>
 
   </div>
